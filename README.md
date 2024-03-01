@@ -20,7 +20,7 @@ To use the Personal Finance Tracker, follow these steps:
 
 ```bash
 pip install pandas matplotlib
-
+```
 Download the PersonalFinanceTracker.py file from this repository.
 
 ## Run the program:
@@ -32,14 +32,14 @@ After installing the Personal Finance Tracker, you can start the program by navi
 
 ```bash
 python PersonalFinanceTracker.py
-al overview.
+```
 
-Contributing
+## Contributing
 Contributions to the Personal Finance Tracker are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-Acknowledgments
+## Acknowledgments
 This project was created as a solo effort to address the common challenge of personal finance management.
 Special thanks to the Python, Pandas, and Matplotlib communities for providing the tools and documentation that made this project possible.
 
-Contact
+## Contact
 For any questions or feedback regarding the Personal Finance Tracker, please contact me through GitHub.
