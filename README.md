@@ -19,7 +19,12 @@ To use the Personal Finance Tracker, follow these steps:
 2. Install the required Python libraries:
 
 ```bash
-pip install pandas matplotlib
+pip install pandas
+pip install matplotlib
+pip install panel
+pip install gspread
+pip install hvplot
+pip install holoviews
 ```
 Download the PersonalFinanceTracker.py file from this repository.
 
