@@ -23,7 +23,7 @@ pip install pandas matplotlib
 
 Download the PersonalFinanceTracker.py file from this repository.
 
-Run the program:
+## Run the program:
 python PersonalFinanceTracker.py
 
 Usage
