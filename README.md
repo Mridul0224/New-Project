@@ -26,8 +26,13 @@ Download the PersonalFinanceTracker.py file from this repository.
 ## Run the program:
 python PersonalFinanceTracker.py
 
-Usage
-After launching the Personal Finance Tracker, follow the prompts to input your income and expenses. The program will then categorize your spending and display a dashboard with your financial overview.
+## Usage
+
+After installing the Personal Finance Tracker, you can start the program by navigating to the project directory and running:
+
+```bash
+python PersonalFinanceTracker.py
+al overview.
 
 Contributing
 Contributions to the Personal Finance Tracker are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
